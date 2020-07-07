@@ -1,0 +1,13 @@
+logs
+__pycache__
+.idea
+venv
+env
+.flake8
+.gitlab-ci.yml
+.gitignore
+data
+*.egg-info
+film_logs
+docker-compose.yml
+nohup.out

@@ -1,0 +1,15 @@
+exclude: (venv/)
+repos:
+- repo: local
+  hooks:
+  - id: flake8
+    name: flake8
+    language: system
+    entry: flake8
+    types: [python]
+  - id: isort
+    name: isort
+    language: system
+    entry: isort
+    args: [-y]
+    types: [python]
