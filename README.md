@@ -1,5 +1,3 @@
-# RHAssurance
-
 ## contribute
 
 1. install pre-commit
